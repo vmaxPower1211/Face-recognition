@@ -17,8 +17,7 @@ Here we are using OpenFace pre-trained model for facial recognition. Without goi
 ![Triplet Loss Function](https://github.com/sumantrajoshi/Face-recognition-using-deep-learning/blob/master/pictures/Triplet%20Loss%20Function.JPG)
 
 
-## Video Link
-You can view the application demonstration on Youtube at following link: https://youtu.be/aUYtG2aEKSY
+
 
 
 
